@@ -30,6 +30,7 @@ header {
 }
 
 .btn-primary {
+	left: 50px;
 	background-color: #f03e3e;
 	border-color: #f03e3e;
 	transition: 1s ease-in;
